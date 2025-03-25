@@ -4,6 +4,8 @@ dist
 dist-ssr
 *.local
 .history
+.husky
+.vscode
 
 # Editor directories and files
 .idea
